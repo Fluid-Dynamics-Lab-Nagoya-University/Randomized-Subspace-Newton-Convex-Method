@@ -74,8 +74,8 @@ Due to GitHub file size limitations, a dataset is linked online: [NOAA Optimum I
 If you use `Randomized Subspace Newton Convex Method` code in your work, please cite the software itself and relevent papers.  
 ### General software reference:  
 ``` bibtex
-@misc{nakai2021github,
-      author = {Kumi Nakai},
+@misc{nonomura2021github,
+      author = {Taku Nonomura},
       title = {Randomized Subspace Newton Convex Method},
       howpublished = {Available online},
       year = {2021},
