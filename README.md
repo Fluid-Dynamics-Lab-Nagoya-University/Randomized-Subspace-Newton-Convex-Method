@@ -117,8 +117,8 @@ If you use `Randomized Subspace Newton Convex Method` code in your work, please 
 
 ## Author
 ---
-Kumi Nakai  
+Taku Nonomura  
 [Experimental Aerodynamics Laboratory](http://www.aero.mech.tohoku.ac.jp/eng/)  
 Department of Aerospace Engineering, Tohoku University  
 Sendai, JAPAN  
-E-mail: nakai@aero.mech.tohoku.ac.jp
+E-mail: nonomura@aero.mech.tohoku.ac.jp
