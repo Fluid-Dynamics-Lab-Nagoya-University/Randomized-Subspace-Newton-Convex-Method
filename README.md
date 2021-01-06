@@ -1,9 +1,9 @@
-<!-- Last modified: 2021/01/05 -->
+<!-- Last modified: 2021/01/06 -->
 # Randomized Subspace Newton Convex Method  
 ---
 This repository contains Matlab R2020a code to reproduce results for a manuscript entitled __"Randomized Subspace Newton Convex Method Applied to Data-Driven Sensor Selection Problem"__ to be published in IEEE Signal Processing Letters.  
 The sparse sensor selection problem is solved by the rabdomized subspace Newton convex method.  
-To run the program, excute `P_greedy_demo`.  
+To run the program, excute `P_demo`.  
 
 ## Directory  
 ---
@@ -18,7 +18,7 @@ Due to GitHub file size limitations, a dataset is linked online: [NOAA Optimum I
 ## Code  
 ---
 ### Main program  
-- P_greedy_demo.m  
+- P_demo.m  
 
 ### Function  
 #### Preprocessing  
@@ -74,7 +74,7 @@ Due to GitHub file size limitations, a dataset is linked online: [NOAA Optimum I
 If you use `Randomized Subspace Newton Convex Method` code in your work, please cite the software itself and relevent papers.  
 ### General software reference:  
 ``` bibtex
-@misc{nonomura2021github,
+@misc{nakai2021github,
       author = {Taku Nonomura},
       title = {Randomized Subspace Newton Convex Method},
       howpublished = {Available online},
