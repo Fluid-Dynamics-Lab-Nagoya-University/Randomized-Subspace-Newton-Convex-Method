@@ -121,4 +121,4 @@ Taku Nonomura
 [Experimental Aerodynamics Laboratory](http://www.aero.mech.tohoku.ac.jp/eng/)  
 Department of Aerospace Engineering, Tohoku University  
 Sendai, JAPAN  
-E-mail: nonomura@aero.mech.tohoku.ac.jp
+E-mail: nonomura@tohoku.ac.jp
