@@ -1,7 +1,7 @@
 <!-- Last modified: 2021/01/06 -->
 # Randomized Subspace Newton Convex Method  
 ---
-This repository contains Matlab R2020a code to reproduce results for a manuscript entitled __"Randomized Subspace Newton Convex Method Applied to Data-Driven Sensor Selection Problem"__ to be published in IEEE Signal Processing Letters.  
+This repository contains Matlab R2020a code to reproduce results for a manuscript entitled __"Randomized Subspace Newton Convex Method Applied to Data-Driven Sensor Selection Problem"__ published in [IEEE Signal Processing Letters, Vol. 28, pp. 284-288, 2021](https://ieeexplore.ieee.org/document/9321514).  
 The sparse sensor selection problem is solved by the rabdomized subspace Newton convex method.  
 To run the program, excute `P_demo`.  
 
@@ -94,7 +94,6 @@ If you use `Randomized Subspace Newton Convex Method` code in your work, please 
       year={2021},
       publisher={IEEE},
       doi={10.1109/LSP.2021.3050708},
-      <!-- eprint={} -->
 }
 ```
 
