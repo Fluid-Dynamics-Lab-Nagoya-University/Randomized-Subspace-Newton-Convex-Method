@@ -74,7 +74,7 @@ Due to GitHub file size limitations, a dataset is linked online: [NOAA Optimum I
 If you use `Randomized Subspace Newton Convex Method` code in your work, please cite the software itself and relevent papers.  
 ### General software reference:  
 ``` bibtex
-@misc{nakai2021github,
+@misc{nonomura2021github,
       author = {Taku Nonomura},
       title = {Randomized Subspace Newton Convex Method},
       howpublished = {Available online},
@@ -89,12 +89,11 @@ If you use `Randomized Subspace Newton Convex Method` code in your work, please 
       title={Randomized Subspace Newton Convex Method Applied to Data-Driven Sensor Selection Problem}, 
       author={Taku Nonomura and Shunsuke Ono and Kumi Nakai and Yuji Saito},
       journal={IEEE Signal Processing Letters},
-      <!-- volume={}, -->
-      <!-- number={}, -->
-      <!-- pages={}, -->
+      volume={28},
+      pages={284-288},
       year={2021},
       publisher={IEEE},
-      <!-- doi={}, -->
+      doi={10.1109/LSP.2021.3050708},
       <!-- eprint={} -->
 }
 ```
